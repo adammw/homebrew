@@ -2,7 +2,7 @@ require 'formula'
 
 class Cpuminer < Formula
   homepage 'https://github.com/pooler/cpuminer'
-  url 'http://downloads.sourceforge.net/project/cpuminer/pooler-cpuminer-2.2.3.tar.gz'
+  url 'https://downloads.sourceforge.net/project/cpuminer/pooler-cpuminer-2.2.3.tar.gz'
   sha1 '985ad94db5bd6579dff42933f7fe99f1ba45b364'
   head 'https://github.com/pooler/cpuminer.git'
 
